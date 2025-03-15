@@ -1,7 +1,7 @@
-# Blogging Application
+# Blogsphere
 
 ## Overview
-The Blogging Application is a platform that allows users to create, manage, and share their blog posts with an audience. It provides features such as user authentication (using JWT), post creation and editing. The application is designed to be user-friendly and responsive across multiple devices.
+Blogsphere is a platform that allows users to create, manage, and share their blog posts with an audience. It provides features such as user authentication (using JWT), post creation and editing. The application is designed to be user-friendly and responsive across multiple devices.
 
 ## Features
 - User Authentication (Sign Up, Login, Logout)
