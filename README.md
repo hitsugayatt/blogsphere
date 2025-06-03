@@ -1,7 +1,7 @@
-# Blogsphere
+# BlogSpace
 
 ## Overview
-Blogsphere is a platform that allows users to create, manage, and share their blog posts with an audience. It provides features such as user authentication (using JWT), post creation and editing. The application is designed to be user-friendly and responsive across multiple devices.
+BlogSpace is a platform that allows users to create, manage, and share their blog posts with an audience. It provides features such as user authentication (using JWT), post creation and editing. The application is designed to be user-friendly and responsive across multiple devices.
 
 ## Features
 - User Authentication (Sign Up, Login, Logout)
@@ -20,7 +20,7 @@ Blogsphere is a platform that allows users to create, manage, and share their bl
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/hitsugayatt/blogsphere.git
+   git clone https://github.com/hitsugayatt/blogspace.git
    ```
 2. Install dependencies:
    ```
